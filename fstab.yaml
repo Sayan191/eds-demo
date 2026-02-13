@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/0/folders/1Lv1-E47DzmXqEqqVFSk5j3RcKsKQ8Hrq
+  /:
+    url: https://content.da.live/sayan191/eds-demo/
+    type: markup
